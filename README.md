@@ -45,7 +45,7 @@ MediAssist is a web application designed to simplify medical management for pati
 
 ## 🌐 How to Run the Project
 1. Clone the repository:
-   `git clone https://github.com/yourusername/MediAssist.git`
+   `git clone https://github.com/yourusername/projet-web.git`
 2. Install dependencies (if applicable):
    `npm install`
 3. Start the server:
